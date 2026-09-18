@@ -4,16 +4,6 @@ This project was created for the ACM Student Chapter at Banasthali Vidyapith.
 
 The website showcases the chapter's events, activities, milestones, and memorable moments through an interactive timeline.
 
-## Tech Stack
-
-- React.js
-- Vite
-- JavaScript
-- HTML5
-- CSS3
-- Framer Motion
-- Lucide React
-
 ## Getting Started
 
 This project was created using React and Vite.
